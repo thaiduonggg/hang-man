@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1745222783 source:d:\download\mingw\bin\hang man\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"draw.h"
+
+1745222738 source:d:\download\mingw\bin\hang man\draw.cpp
+
+1745222783 d:\download\mingw\bin\hang man\draw.h
+	<iostream>
+	<thread>
+	<chrono>
+
+1745222738 source:d:\download\mingw\bin\hang man - copy\draw.cpp
+
+1746366620 source:d:\download\mingw\bin\hang man - copy\guesser.cpp
+
+1746367806 source:d:\download\mingw\bin\hang man - copy\util.cpp
+
+1746374292 source:d:\download\mingw\bin\hang man - copy\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"draw.h"
+	"guesser.h"
+	"util.h"
+
+1746373544 d:\download\mingw\bin\hang man - copy\draw.h
+	<iostream>
+	<thread>
+	<chrono>
+	<set>
+
+1746373082 d:\download\mingw\bin\hang man - copy\guesser.h
+	<string>
+	<set>
+
+1746373084 d:\download\mingw\bin\hang man - copy\util.h
+	<iostream>
+
+1745222738 source:d:\download\mingw\bin\hang_man\draw.cpp
+
+1746366620 source:d:\download\mingw\bin\hang_man\guesser.cpp
+
+1746367806 source:d:\download\mingw\bin\hang_man\util.cpp
+
+1746433812 source:d:\download\mingw\bin\hang_man\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"draw.h"
+	"guesser.h"
+	"util.h"
+
+1746387586 d:\download\mingw\bin\hang_man\draw.h
+	<iostream>
+	<thread>
+	<chrono>
+	<set>
+
+1746386115 d:\download\mingw\bin\hang_man\guesser.h
+	<string>
+	<set>
+	<map>
+
+1746386072 d:\download\mingw\bin\hang_man\util.h
+	<iostream>
+
+1745222738 source:d:\download\mingw\bin\hang-man\draw.cpp
+
+1746366620 source:d:\download\mingw\bin\hang-man\guesser.cpp
+
+1746367806 source:d:\download\mingw\bin\hang-man\util.cpp
+
+1747038042 source:d:\download\mingw\bin\hang-man\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"draw.h"
+	"guesser.h"
+	"util.h"
+
+1746599449 d:\download\mingw\bin\hang-man\draw.h
+	<iostream>
+	<thread>
+	<chrono>
+	<set>
+
+1746386115 d:\download\mingw\bin\hang-man\guesser.h
+	<string>
+	<set>
+	<map>
+
+1746386072 d:\download\mingw\bin\hang-man\util.h
+	<iostream>
+
